@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👷 I’m currently working on = easy.js,easy.css,metadata.json  
-💬 Ask me about = anything about my projects   
-📫 How to reach me: you can reach me on the Discussions option  
-🎉🎈 Fun fact: i love js  
+👷 I’m working on easy.js, easy.css, metadata.json, talk-now(personal project), etc..  
+💬 Ask me anything about my projects and i will try my best to help you  
+📫you can reach me on the <a herf="https://github.com/s0net/s0net/discussions">Discussions</a> option  on gituhb   
+🎉🎈 Fun facts: i love js, i am learning websockets and .md file type  

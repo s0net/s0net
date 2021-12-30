@@ -1,4 +1,5 @@
-<link rel="icon" href="https://avatars.githubusercontent.com/u/95741151?v=4">
+<link rel="icon" href="https://avatars.githubusercontent.com/u/95741151?v=4">  
+
 ## Hi there 👋
 
 👷 I’m working on easy.js, easy.css, metadata.json, talk-now(personal project), etc..  

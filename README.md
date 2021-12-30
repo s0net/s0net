@@ -1,4 +1,6 @@
+<head>
 <link rel="icon" href="https://avatars.githubusercontent.com/u/95741151?v=4">  
+</head>
 
 ## Hi there 👋
 

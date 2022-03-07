@@ -1,6 +1,6 @@
 # Hi there 👋
 
-i am s-net(s0net)   
+I am s-net(s0net)   
 ![s0net's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0net&show_icons=true&theme=dracula)   
 💬 Ask me anything about my projects and i will try my best to help you  
 📫you can reach me on the Discussions [**here**](https://github.com/s0net/s0net/discussions)  
